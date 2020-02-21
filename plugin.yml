@@ -1,0 +1,5 @@
+name: WarPvP
+main: com.gmail.filoghost.warpvp.WarPvP
+version: 1.0
+
+depend: [WildCommons, WorldEdit]
